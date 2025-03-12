@@ -1,0 +1,20 @@
+# Ignore environment variables file
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Future
+FUTURE.md
+
+tools/rag/database/chroma_db/
+tools/rag/database/llama_index/
+tools/rag/database/llama_index_context_window/
